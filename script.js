@@ -1,7 +1,7 @@
 function firstChar(text) {
   // your code here
-	const new=text.trim();
-	return new.charAt(0);
+	const newText=text.trim();
+	return newText.charAt(0);
 }
 
 // Do not change the code below
